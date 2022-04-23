@@ -7,7 +7,7 @@ permissions: write-all
 jobs:
   build:
     name: mi
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     strategy:
       max-parallel: 20
       fail-fast: false
@@ -19,26 +19,12 @@ jobs:
         JOB: ${{ matrix.go }}
     steps:
     - name: todo
-      run: sudo apt-get install lynx
+      run: Open https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
     - name: run
-      run: lynx -dump https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
+      run: Open https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
     - name: run
-      run: lynx -dump https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
+      run: Open https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
+    - name: todo
+      run: Open https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
     - name: run
-      run: lynx -dump https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
-    - name: run
-      run: lynx -dump https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
-    - name: run
-      run: lynx -dump https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
-    - name: run
-      run: lynx -dump https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
-    - name: run
-      run: lynx -dump https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
-    - name: run
-      run: lynx -dump https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
-    - name: run
-      run: lynx -dump https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
-    - name: run
-      run: lynx -dump https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
-    - name: exit
-      run: exit
+      run: Open https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html
