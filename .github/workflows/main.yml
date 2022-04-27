@@ -21,7 +21,11 @@ jobs:
     steps:
     - name: todo
       run: open -n -a "Google Chrome" --args "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
+    - name: todo1
       run: open -n -a "Google Chrome" --args "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
+    - name: todo2
       run: open -n -a "Google Chrome" --args "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
+    - name: todo3
       run: open -n -a "Google Chrome" --args "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
+    - name: todo4
       run: open -n -a "Google Chrome" --args "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
