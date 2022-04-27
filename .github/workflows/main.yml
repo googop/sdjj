@@ -20,12 +20,8 @@ jobs:
         JOB: ${{ matrix.go }}
     steps:
     - name: todo
-      run: open -a "Google Chrome" --args '--new-window' "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
-    - name: run
-      run: open -a "Google Chrome" --args '--new-window' "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
-    - name: run
-      run: open -a "Google Chrome" --args '--new-window' "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
-    - name: todo
-      run: open -a "Google Chrome" --args '--new-window' "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
-    - name: run
-      run: open -a "Google Chrome" --args '--new-window' "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
+      run: open -n -a "Google Chrome" --args "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
+      run: open -n -a "Google Chrome" --args "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
+      run: open -n -a "Google Chrome" --args "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
+      run: open -n -a "Google Chrome" --args "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
+      run: open -n -a "Google Chrome" --args "https://yoelmod.blogspot.com/2022/02/hbo-max-premium-mod-apk-para-android.html"
